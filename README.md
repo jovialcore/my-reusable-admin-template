@@ -1,5 +1,5 @@
-### Backend stack for whatcompanystackk
+#####  Pesonal Admin Dashboard template for laravel 
 
-Mirrored from [Web app ](https://whatcompanystack.com)
+Mirrored from [What company stack ](https://whatcompanystack.com)
 
 
